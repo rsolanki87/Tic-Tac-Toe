@@ -7,4 +7,4 @@
 <p>Built the game using classes, instace variables, class variables, and methods.</p>
 
 <h1>Live Version</h1>
-(https://repl.it/github/rsolanki87/Tic-Tac-Toe)
+https://replit.com/@rsolanki87/Tic-Tac-Toe#tic-tac-toe.rb
